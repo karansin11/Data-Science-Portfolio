@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-# Project 1 : Market research analysis on condominium market in GTA | Self-guided project
+# Project 1 : Market research analysis on condominium market in GTA 
 Project Description: Developed a web-scraping model to extract listings data from a popular real estate website, Condos.ca (using Selenium API and BeautifulSoup in Python) to perform real estate market research 
 
 Acitivites/:
@@ -8,13 +8,13 @@ Acitivites/:
 - Article published in Towards Data Science (one of the most read Medium publications and one of the most popular data science blogs in the world)
 
 
-# Project 2 : Churn Analytics in Telecom | Self-guided Project
+# Project 2 : Churn Prediction in Telecom 
 Project Description: Developed a classification machine learning model to predict customer churn in the telecom industry
 
 Activities:
 - Performed all steps including (i) business problem definition, (ii) data inspection/cleaning, EDA(using Tableau and Python libraries), (iii) clustering analysis (using PCA & KMeans), (iv) feature engineering/variable reduction, (v) model training & validation (using Logistic Regression, Random Forest) with a recall rate of 80% on testing data and (vi) model interpretation (using Lime and lift curve/decile analysis) to identify the top drivers of churn and create customer profiles/segments based on the probability of churn
 
-# Project 3: Melborne House Price Prediction | Self-guided Project
+# Project 3: Melborne House Price Prediction 
 Project Description: Developed a Linear Regression Model to predict house prices in Melbourne city and identify significant variables
 Activities:
 - Performed an in-depth EDA to capture price trends by predictor variables from data spanning 14000 listings
