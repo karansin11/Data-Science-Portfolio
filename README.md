@@ -26,5 +26,6 @@ Activities:
 - Collected and web scraped over a million tweets (using AWS Kinesis data stream) on Trump and Biden and stored the data in AWS S3
 - Preprocessing/cleaning the raw tweets data, creating sentiment scores (using Python TextBlob library), conducting EDA to analyze trends in polarity and subjectivity on the 2 candidates
 
-
+# Project 5: Data Cleaning / Reshaping
+Project Description: An exercise in reshaping dirty excel data from wide format to long format.
  
