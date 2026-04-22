@@ -6,6 +6,7 @@ Acitivites/:
 - The listings data collected spanned for more than 2000 condos and involved information on important parameters affecting condo prices such as the number of bedrooms, bathrooms, maintenance fees, etc.
 - Performed in-depth exploratory analysis on the resulting data frame using Python libraries as well as statistical methods to analyze important metrics on pricing; estimated $ per sq. ft figures, and validated results (based on market intelligence provided by the website) within an error value of 8%. 
 - Article published in Towards Data Science (one of the most read Medium publications and one of the most popular data science blogs in the world)
+  (https://medium.com/data-science/how-i-built-a-web-scraper-tool-to-analyze-condo-prices-in-toronto-56f829c55e93)
 
 
 # Project 2 : Churn Prediction in Telecom 
