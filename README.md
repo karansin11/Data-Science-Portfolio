@@ -30,3 +30,7 @@ Activities:
 # Project 5: Data Cleaning / Reshaping
 Project Description: An exercise in reshaping dirty excel data from wide format to long format.
  
+
+# Project 6: Data Analytics Projects : Immigration to Canada & World Happiness Report
+Project Description: 1) Analysis of immigration flows to Canada using Tableau Business Intelligence
+2) Analysis of happiness report using Tableau Business Intelligence
